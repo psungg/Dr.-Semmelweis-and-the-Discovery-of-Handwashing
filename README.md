@@ -1,7 +1,7 @@
 # Dr.-Semmelweis-and-the-Discovery-of-Handwashing
 
 ## 1. Meet Dr. Ignaz Semmelweis
-<p><img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_49/img/ignaz_semmelweis_1860.jpeg"></p>
+<p><img style="float: left;margin:5px 20px 5px 1px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg"></p>
 <!--
 <img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_49/datasets/ignaz_semmelweis_1860.jpeg">
 -->
